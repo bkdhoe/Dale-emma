@@ -1,13 +1,12 @@
-# Brian Donahoe's beautiful coding for his first ever text-based video game: "Naming Pro Guess"
-# Credit to his Computer Science teacher Mr. Dale Rerko for allowing him the leeway to make this game isntead of doing classwork.
-
-
-# Setup defaults + imports
-
 import time
 import threading
 import sys
 import random
+
+
+
+
+
 
 weapon = 0
 
